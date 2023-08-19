@@ -7,4 +7,5 @@ https://blog.isese.top/more/index-1.html
 https://blog.isese.top/more/index.html
 https://blog.isese.top/2023/08/18/hello-world/
 https://blog.isese.top/
-https://blog.isese.top/tags/%E6%95%99%E7%A8%8B-Linux-Deploy/
+https://blog.isese.top/tags/%E6%95%99%E7%A8%8B/
+https://blog.isese.top/tags/Linux-Deploy/
