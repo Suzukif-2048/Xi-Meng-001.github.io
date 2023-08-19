@@ -1,3 +1,4 @@
+https://blog.isese.top/2023/08/19/%E6%88%91%E8%A6%81%E7%8E%A9%E5%8E%9F%E7%A5%9E%E5%98%BF%E5%98%BF/
 https://blog.isese.top/2023/08/19/%E4%BD%BF%E7%94%A8Linux-Deploy%E6%90%AD%E5%BB%BAMinecraft-Java%E7%89%88%E6%9C%8D%E5%8A%A1%E5%99%A8/
 https://blog.isese.top/about/index.html
 https://blog.isese.top/links/index.html
@@ -9,3 +10,5 @@ https://blog.isese.top/2023/08/18/hello-world/
 https://blog.isese.top/
 https://blog.isese.top/tags/%E6%95%99%E7%A8%8B/
 https://blog.isese.top/tags/Linux-Deploy/
+https://blog.isese.top/tags/%E5%8E%9F%E7%A5%9E/
+https://blog.isese.top/tags/OP/
