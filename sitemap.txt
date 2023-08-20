@@ -13,7 +13,7 @@ https://blog.isese.top/
 https://blog.isese.top/tags/%E6%95%99%E7%A8%8B/
 https://blog.isese.top/tags/Hexo/
 https://blog.isese.top/tags/Github-Pages/
+https://blog.isese.top/tags/Linux-Deploy/
 https://blog.isese.top/tags/%E5%8E%9F%E7%A5%9E/
 https://blog.isese.top/tags/OP/
-https://blog.isese.top/tags/Linux-Deploy/
 https://blog.isese.top/tags/%E7%A4%BE%E6%AD%BB/
