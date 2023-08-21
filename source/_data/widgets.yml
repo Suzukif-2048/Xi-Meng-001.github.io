@@ -1,0 +1,11 @@
+welcome:
+  layout: markdown
+  title: 欢迎欢迎
+  content: |
+    <a style="text-decoration:none;" href="https://travel.moe/go.html" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！" target="_blank"><img src="https://travel.moe/images/icon/icon64.png" style="width:24px;height:24px">异次元之旅</a>
+
+ghuser:
+  layout: ghuser
+  username: Xi-Meng-001 # your github login username
+  avatar: true # show avatar or not
+  menu: true # show menu or not

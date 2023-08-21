@@ -1,0 +1,22 @@
+welcome:
+  layout: markdown
+  content: |
+    <a style="text-decoration:none;" href="https://travel.moe/go.html" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！" target="_blank"><img src="https://travel.moe/images/icon/icon64.png" style="width:24px;height:24px">异次元之旅</a>
+
+toc:
+  layout: toc
+  list_number: false # 是否显示序号
+  min_depth: 2 # 建议不要低于 2 即从 H2 标签开始解析（H1标签用于文章大标题）
+  max_depth: 5 # 5 代表最多解析到 H5 标签
+  fallback: recent # Use a backup widget when toc does not exist.
+
+search:
+  layout: search
+  filter: auto # auto or '/path'
+  placeholder: 文章搜索
+  
+ghuser:
+  layout: ghuser
+  username: Xi-Meng-001 # your github login username
+  avatar: true # show avatar or not
+  menu: true # show menu or not
