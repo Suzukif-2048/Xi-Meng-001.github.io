@@ -2,5 +2,12 @@
     - title: 「ISS」搜索」
       url: https://www.isese.top
       screenshot: https://www.isese.top/nav.png
-      avatar: Letter
+      avatar: https://www.isese.top/nav.png
       description: 一个导航网站
+
+'LのBlog':
+    - title: LのBlog
+      url: https://blog.lze.ink
+      screenshot: 
+      avatar: https://blog.lze.ink/favicon.favicon
+      description: L的Blog
