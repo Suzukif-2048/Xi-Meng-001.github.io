@@ -7,8 +7,7 @@ date: 2023-08-18 16:56:37
 {% friends 友链 %}
 
 # 申请友链
-{% folding 你需要在留言处添加如下信息 open:false color:cyan %}
-content
+{% folding 在留言板添加下面的信息就可以跟我教朋友啦ヾ⁠(⁠･⁠ω⁠･⁠*⁠)⁠ﾉ open:false color:cyan %}
 
 - 标题: 鈴木花華のBlog
 - URL：https://blog.isese.top/
