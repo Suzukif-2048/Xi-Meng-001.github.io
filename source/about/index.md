@@ -23,6 +23,8 @@ date: 2023-08-19 15:00:27
 
 # Q&A
 {% folding Q:为什么用ATRI当头像 open:false color:cyan %}
+
 A:当然是!主人喜欢ATRI啦{% del 我这么可爱不喜欢我么(⁠╥⁠﹏⁠╥⁠) %}
+
 {% endfolding %}
 
