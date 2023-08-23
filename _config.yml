@@ -112,3 +112,12 @@ inject:
   head:
     - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
   script:
+
+hexo-tag-dplayer:
+  cdn:
+    - https://cdn.jsdelivr.net/npm/dplayer/dist/DPlayer.min.js
+    - https://cdn.jsdelivr.net/npm/dplayer/dist/DPlayer.min.css
+  default: 
+    api: https://api.prprpr.me/dplayer/
+    loop: yes
+    screenshot: yes
