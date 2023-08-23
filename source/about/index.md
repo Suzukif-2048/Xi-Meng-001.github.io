@@ -5,6 +5,7 @@ date: 2023-08-19 15:00:27
 
 # 我
 
+{% image https://pan.isese.top/f/X7C2/%E9%88%B4%E6%9C%A8%E8%8A%B1%E8%8F%AF%28%E5%9C%86%E8%A7%92%29.png %}
 鈴木花華{% psw (是我耶！（｡ӧ◡ӧ｡）) %}
 英文名:Suzuki Flower
 是由Letter{% del (主人) %}想象出来的虚拟角色({% psw 我是虚拟的吗Σ(ŎдŎ|||)ﾉﾉ %})哦(⑅˃◡˂⑅)
