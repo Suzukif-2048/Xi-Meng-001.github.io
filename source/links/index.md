@@ -12,3 +12,6 @@ date: 2023-08-18 16:56:37
 - 站点网站:
 - 站点简介:
 - 头像直链:
+<div id="friends-api"></div>
+<script src="https://unpkg.com/qexo-friends/friends-api.js"></script>
+<script>qexo_friend_api("friends-api","https://qexo.isese.top/");</script>
