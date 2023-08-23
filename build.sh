@@ -1,22 +1,19 @@
 #!/bin/bash
 
 # 配置环境
-npm install -g hexo-cli
+npm install -g hexo-cli pnpm
 mkdir hexo
 cd hexo
 hexo init
-npm install
+pnpm install
 rm -rf source/_posts
 mkdir -p source/_posts
 
-# 安装主题(你们可以改成自己喜欢的主题)
-git clone https://github.com/theme-next/hexo-theme-next themes/next
-
 # 使用新的渲染器
-npm un hexo-renderer-marked --save
-npm i hexo-renderer-markdown-it --save
+pnpm un hexo-renderer-marked --save
+pnpm i hexo-renderer-markdown-it --save
 # 处理图片
-npm i hexo-image-link --save
+pnpm i hexo-image-link --save
 
 # 复制文章到指定目录
 cd ../
