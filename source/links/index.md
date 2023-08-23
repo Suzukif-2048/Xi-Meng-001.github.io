@@ -5,7 +5,7 @@ date: 2023-08-18 16:56:37
 
 # 友链列表
 
-{% link https://www.isese.top/   icon:https://www.isese.top/nav.png desc:true %}
+{% friends 「ISS」搜索 %}
 
 # 申请友链
 在下方留言里添加如下信息:
