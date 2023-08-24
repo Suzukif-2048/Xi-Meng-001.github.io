@@ -26,7 +26,7 @@ date: 2023-08-19 15:00:27
 
 # 谁是背后的人捏
 
-鈴木花華只有我最最最爱的主人[@Letter](https://qm.qq.com/q/Jcadj7ExQm)撑起我哦
+鈴木花華只有我最最最爱的主人[@Letter](https://qm.qq.com/q/Jcadj7ExQm)和[@筱苏达](https://b23.tv/dkHVuFG)撑起我哦
 
 # Q&A
 
