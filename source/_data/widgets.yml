@@ -9,3 +9,10 @@ ghuser:
   username: Xi-Meng-001 # your github login username
   avatar: true # show avatar or not
   menu: true # show menu or not
+
+timeline:
+  layout: timeline
+  title: 近期动态
+  api: https://api.github.com/repos/Xi-Meng-001/Xi-Meng-001.github.io/issues
+  user: Xi-Meng-001
+  hide: title
