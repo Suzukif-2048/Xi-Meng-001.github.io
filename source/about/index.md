@@ -19,7 +19,10 @@ date: 2023-08-19 15:00:27
 
 来听歌吧!ヾ(❀●◡●)ﾉ
 {% cplayer %}
-- 22676167
+- name: Flower Dance # 名字
+  artist: Dj Okawari # 艺术家
+  poster: https://pan.isese.top/f/oahN/109951168761288516.jpg
+  src: https://pan.isese.top/f/ePHm/Flower%20Dance.mp3
 {% endcplayer %}
 
 # 我喜欢的
