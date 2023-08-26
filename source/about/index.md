@@ -23,6 +23,14 @@ date: 2023-08-19 15:00:27
   artist: Dj Okawari # 艺术家
   poster: https://pan.isese.top/f/oahN/109951168761288516.jpg
   src: https://pan.isese.top/f/ePHm/Flower%20Dance.mp3
+- name: Luv Letter
+  artist: Dj Okawari
+  poster: https://pan.isese.top/f/05s3/109951168761309686.jpg
+  src: https://pan.isese.top/f/gLIB/Luv%20Letter.mp3
+- name: Dear Moments
+  artist: 赤尾ひかる
+  poster: https://pan.isese.top/f/3eSQ/109951165392169353.jpg
+  src: https://pan.isese.top/f/ldtn/Dear%20Moments.mp3
 {% endcplayer %}
 
 # 我喜欢的
