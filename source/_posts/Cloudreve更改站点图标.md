@@ -8,6 +8,10 @@ references:
     url: https://forum.cloudreve.org/d/1765
 ---
 
+Cloudreve更改站点图标的教程ヾ(❀●◡●)ﾉ
+
+<!--more-->
+
 # 前言
 因为我自己搭了个[Cloudreve盘](https://pan.isese.top)想改下站点图标，查找了{% del 许多 %}教程才搞成了
 {% del 其实主人就是照抄|･ω･｀) %}
