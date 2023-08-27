@@ -2,7 +2,7 @@
 title: Cloudreve更改站点图标
 date: 2023-08-28 01:35:23
 tags: [教程, Cloudreve]
-cover: https://pan.isese.top/f/J1CK/logo.svg
+cover: https://pan.isese.top/f/ymFN/cloudreve.png
 references:
   - title: '修改站点图标 教程'
     url: https://forum.cloudreve.org/d/1765

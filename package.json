@@ -29,6 +29,7 @@
     "hexo-tag-color-block": "0.0.3",
     "hexo-tag-cplayer": "^1.0.0",
     "hexo-tag-dplayer": "^0.3.3",
+    "hexo-tag-owl": "^1.2.2",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-stellar": "^1.19.0",
     "install": "^0.13.0",
