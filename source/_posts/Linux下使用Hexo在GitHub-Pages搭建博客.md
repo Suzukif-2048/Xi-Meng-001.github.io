@@ -13,10 +13,10 @@ references:
 
 <!--more-->
 
-# 配置环境
+## 配置环境
 配置搭建`Hexo`所需要的本地环境，包括`Git`、`Node.js`和`Hexo`本身。
 
-## 安装Git
+### 安装Git
 需要Git把本地博客提交到GitHub上，如果已经安装了Git，可以跳过这一步。
 {% tabs active:2 align:center %}
 
@@ -28,7 +28,7 @@ references:
 
 {% endtabs %}
 
-## 安装Nodejs
+### 安装Nodejs
 因为Hexo是基于Nodejs的，所以要先安装Nodejs。
 Linux安装命令：
 >这里的命令安装的是16版本。
@@ -52,7 +52,7 @@ pnpm config get registry
 pnpm config set registry http://registry.npm.taobao.org 
 ```
 
-## 安装Hexo
+### 安装Hexo
 {% tabs active:2 align:center %}
 
 <!-- tab npm -->
@@ -63,8 +63,8 @@ pnpm config set registry http://registry.npm.taobao.org
 
 {% endtabs %}
 
-# 配置博客
-## 初始化博客
+## 配置博客
+### 初始化博客
 ``` BASH
 hexo init blog
 cd blog
@@ -77,7 +77,7 @@ pnpm install
 这里的blog用来存放博客文件
 执行完成之后运行`hexo server`，访问http://IP:4000就能看见你的博客了
 
-## 修改配置文件
+### 修改配置文件
 
 创建完成后，目录结构如下
 blog/
@@ -102,11 +102,11 @@ blog/
 
 其他的配置项也可以参考[这里](https://hexo.io/zh-cn/docs/configuration)
 
-## 新建文章
+### 新建文章
 使用`hexo new 'Hello world'`可以在sources/_posts生成一个Hello-world.md的文件，在这个文件里就能写文章了。
 
-# 上传博客到GitHub Pages搭建博客
-## 连接GitHub
+## 上传博客到GitHub Pages搭建博客
+### 连接GitHub
 >以下的username均改成你的GitHub用户名
 
 1.执行`ssh-keygen –t rsa`生成秘钥
