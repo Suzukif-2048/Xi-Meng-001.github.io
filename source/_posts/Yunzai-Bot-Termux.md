@@ -9,10 +9,10 @@ cover: https://z1.ax1x.com/2023/09/16/pPf0rHf.jpg
 
 <!--more-->
 
-# 准备需要
+## 准备需要
 > Termux,{% del 一个会查百度的脑子 %}
 
-# 安装Proot容器
+## 安装Proot容器
 
 打开Termux
 更新软件源`apt update`
@@ -29,7 +29,7 @@ cover: https://z1.ax1x.com/2023/09/16/pPf0rHf.jpg
 点击启动容器
 等待安装
 
-# 安装Node.js,pnpm,redis
+## 安装Node.js,pnpm,redis
 进入容器
 
 这里采用之前Hexo博客的安装脚本{% psw (把x64都改成arm64就行了) %}
@@ -47,13 +47,13 @@ ln -s /opt/node/bin/npx /usr/local/bin/
 输入以下命令安装pnpm和redis
 {% copy npm install pnpm redis -g %}
 
-# 克隆项目
-## 安装git
+## 克隆项目
+### 安装git
 {% copy sudo apt install git %}
-## 克隆云崽
+### 克隆云崽
 {% copy git clone --depth=1 -b main https://gitee.com/yoimiya-kokomi/Yunzai-Bot.git %}
 
-# 使用方法
+## 使用方法
 1.进入云崽目录
 ``` BASH
 cd Yunzai-Bot
@@ -64,7 +64,7 @@ cd Yunzai-Bot
 {% copy node app %}
 接下来照着提示来就行了
 
-# Q&A
+## Q&A
 {% folding Q:登录失败怎么办 color:cyan %}
 A:可能是腾讯的风控问题，搭建[签名服务器](https://github.com/fuqiuluo/unidbg-fetch-qsign)即可解决问题
 {% endfolding %}
