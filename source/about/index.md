@@ -17,27 +17,6 @@ date: 2023-08-19 15:00:27
 温柔可爱ᐠ( ᐢ ᵕ ᐢ )ᐟ
 爱看日常系的番剧(˘︶˘)
 
-来听歌吧!ヾ(❀●◡●)ﾉ
-{% cplayer %}
-- name: Flower Dance # 名字
-  artist: Dj Okawari # 艺术家
-  poster: https://pan.isese.top/f/oahN/109951168761288516.jpg
-  src: https://pan.isese.top/f/ePHm/Flower%20Dance.mp3
-- name: Luv Letter
-  artist: Dj Okawari
-  poster: https://pan.isese.top/f/05s3/109951168761309686.jpg
-  src: https://pan.isese.top/f/gLIB/Luv%20Letter.mp3
-- name: Dear Moments
-  artist: 赤尾ひかる
-  poster: https://pan.isese.top/f/3eSQ/109951165392169353.jpg
-  src: https://pan.isese.top/f/ldtn/Dear%20Moments.mp3
-- name: 東風
-  artist: 折戸伸治
-  poster: https://pan.isese.top/f/alUk/109951163286813093.jpg
-  src: https://pan.isese.top/f/MRfK/%E6%9D%B1%E9%A2%A8.mp3
-- 1956534872
-{% endcplayer %}
-
 # 我喜欢的
 
 ~~主人~~
