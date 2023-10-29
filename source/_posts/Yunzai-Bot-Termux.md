@@ -2,7 +2,7 @@
 title: Yunzai-Bot Termux安卓搭建教程
 date: 2023-09-16 16:25:12
 tags: [教程, Termux, Yunzai]
-cover: https://z1.ax1x.com/2023/09/16/pPf0rHf.jpg
+cover: https://s2.loli.net/2023/10/29/NIs4eylD1Ob8PCm.jpg
 ---
 
 云崽，原神qq群机器人，通过米游社接口，查询原神游戏信息

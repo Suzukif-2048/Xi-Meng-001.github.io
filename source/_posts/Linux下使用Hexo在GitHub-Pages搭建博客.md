@@ -2,8 +2,8 @@
 title: Linux下使用Hexo在GitHub Pages搭建博客
 date: 2023-08-20 16:34:11
 tags: [教程, Hexo, Github Pages]
-cover: https://s1.ax1x.com/2023/08/20/pP841xA.png
-banner: https://s1.ax1x.com/2023/08/20/pP841xA.png
+cover: https://s2.loli.net/2023/10/29/1QUtTExFrWnZswe.png
+banner: https://s2.loli.net/2023/10/29/1QUtTExFrWnZswe.png
 references:
   - title: 'Linux下使用Hexo在GitHub Pages搭建博客'
     url: https://blog.xzh.gs/2022/04/07/hexo-github_pages/
