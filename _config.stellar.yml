@@ -6,7 +6,7 @@ sidebar:
     more: '[更多](/more/)'
     friends: '[友链](/links/)'
   widgets:
-    home: search, welcome, toc, timeline, ghuser
+    home: search, welcome, toc, timeline
     
 comments:
   service: giscus
