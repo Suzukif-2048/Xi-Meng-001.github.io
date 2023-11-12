@@ -23,6 +23,7 @@
     "hexo-generator-sitemap": "^3.0.1",
     "hexo-generator-tag": "^2.0.0",
     "hexo-hey": "^0.4.1",
+    "hexo-minecraft-skin-viewer": "^1.1.0",
     "hexo-related-popular-posts": "^5.0.1",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-marked": "^6.0.0",
