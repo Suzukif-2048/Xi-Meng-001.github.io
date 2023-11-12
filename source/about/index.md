@@ -3,7 +3,7 @@ layout: wiki
 wiki: Suzukif
 ---
 
-## 喜欢
+{% quot 喜欢 icon:hashtag el:h2 %}
 
 蒲公英
 猫咪
