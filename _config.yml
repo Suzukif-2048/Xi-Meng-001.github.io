@@ -126,7 +126,7 @@ bangumis:
   enable: true              # 是否启用
   path: bangumis/index.html # 生成追番页面的路径
   show: 1                   # 想看，在看，看完
-  title: '追番列表'          # 标题
+  title: '追番'          # 标题
   quote: 'Sukizukif的番剧(*´︶`*）' # 格言
   color_meta: "#555"        # 追番项元数据的颜色
   color_summary: "#555"     # 追番项简介的颜色
