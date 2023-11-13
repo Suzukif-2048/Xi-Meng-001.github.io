@@ -36,6 +36,16 @@ article:
 tag_plugins:
   emoji:
     2233: https://github.com/Xi-Meng-001/2233Emoji/blob/main/${name}.png
+  quot:
+    default:
+      prefix: https://bu.dusays.com/2022/10/24/63567d3e092ff.png
+      suffix: https://bu.dusays.com/2022/10/24/63567d3e0ab55.png
+    hashtag:
+      prefix: https://bu.dusays.com/2022/10/24/63567d3e07da3.png
+    mcskins:
+      prefix: https://s2.loli.net/2023/11/13/2SocECkRGYNWMm8.png
+    gear:
+      prefix: https://s2.loli.net/2023/11/13/kdLo13HPeWiDJhv.png
 
 footer:
   social:

@@ -10,9 +10,9 @@ wiki: Suzukif
 颜文字
 (你以为呢( ˙-˙ ))
 
-{% quot Minecraft皮肤 icon:hashtag el:h2 %}
+{% quot Minecraft皮肤 icon:mcskins el:h2 %}
 
 {% mcskin name MikuMkiu true true 200 300 %}
 
 
-# 设定缺失中...
+{% quot 设定缺失中... icon:gear %}
