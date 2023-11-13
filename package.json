@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "bulma": "^0.9.4",
-    "hexo": "^6.3.0",
+    "hexo": "^7.0.0",
     "hexo-bilibili-bangumi": "^1.8.9",
     "hexo-bilibili-card": "^0.6.3",
     "hexo-deployer-git": "^4.0.0",
