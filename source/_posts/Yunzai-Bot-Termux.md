@@ -66,7 +66,7 @@ cd Yunzai-Bot
 
 ## Q&A
 {% folding Q:登录失败怎么办 color:cyan %}
-A:可能是腾讯的风控问题，搭建[签名服务器](https://github.com/fuqiuluo/unidbg-fetch-qsign)即可解决问题
+A:{% del 可能是腾讯的风控问题，搭建[签名服务器](https://github.com/fuqiuluo/unidbg-fetch-qsign)即可解决问题 %}(已作废)
 {% endfolding %}
 
 {% folding Q:chromium启动失败? color:cyan %}
