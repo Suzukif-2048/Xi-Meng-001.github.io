@@ -1,5 +1,5 @@
 ---
-title: Cloudreve更改站点图标
+title: 「☁」Cloudreve更改站点图标
 date: 2023-08-28 01:35:23
 tags: [教程, Cloudreve]
 cover: https://s2.loli.net/2023/10/29/59jQPqCRV6pSDdW.png

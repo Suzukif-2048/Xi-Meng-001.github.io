@@ -1,5 +1,5 @@
 ---
-title: 使用Linux Deploy搭建Minecraft Java版服务器
+title: 「📱」使用Linux Deploy搭建Minecraft Java版服务器
 date: 2023-08-19 17:00:00
 tags: [教程, Linux Deploy]
 cover: https://s1.ax1x.com/2023/08/19/pP3b62D.png

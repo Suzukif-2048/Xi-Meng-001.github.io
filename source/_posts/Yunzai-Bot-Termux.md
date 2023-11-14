@@ -1,5 +1,5 @@
 ---
-title: Yunzai-Bot Termux安卓搭建教程
+title: 「🤖」Yunzai-Bot Termux安卓搭建教程
 date: 2023-09-16 16:25:12
 tags: [教程, Termux, Yunzai]
 cover: https://s2.loli.net/2023/10/29/NIs4eylD1Ob8PCm.jpg
