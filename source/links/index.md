@@ -16,7 +16,7 @@ date: 2023-08-18 16:56:37
 
 ### 示例
 - 标题: 鈴木花華のBlog
-- URL地址：https://blog.isese.top/
+- URL地址：https://suzukif.xyz/
 - 网站图标：https://q1.qlogo.cn/g?b=qq&nk=1410764887&s=640
 - 简介：可爱的鈴木花華ヾﾉ≧∀≦)o
 
