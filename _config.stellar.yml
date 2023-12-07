@@ -6,7 +6,7 @@ sidebar:
     friends: '[友链](/links/)'
     bangumis: '[追番](/bangumis/)'
   widgets:
-    home: search, welcome, toc, timeline
+    home: search, welcome, toc, timeline, statistics
     
 comments:
   service: giscus

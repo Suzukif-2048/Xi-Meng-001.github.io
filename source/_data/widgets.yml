@@ -16,3 +16,10 @@ timeline:
   api: https://api.github.com/repos/Xi-Meng-001/Xi-Meng-001.github.io/issues
   user: Xi-Meng-001
   hide: footer
+
+statistics:
+  layout: markdown
+  title: 访客统计
+  content: |
+    <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+    <script>LA.init({id:"3GmcGWTc7efvIYuL",ck:"3GmcGWTc7efvIYuL"})</script>
