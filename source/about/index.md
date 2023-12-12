@@ -6,9 +6,8 @@ wiki: Suzukif
 {% quot 喜欢 icon:love el:h2 %}
 
 蒲公英
-猫咪
-颜文字
-(你以为呢( ˙-˙ ))
+猫咪{% emoji bilibili 耶 %}
+颜文字{% emoji bilibili 卖萌 %}
 
 {% quot Minecraft皮肤 icon:mcskins el:h2 %}
 
