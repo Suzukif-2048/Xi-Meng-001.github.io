@@ -13,7 +13,7 @@ Cloudreve更改站点图标的教程ヾ(❀●◡●)ﾉ
 <!--more-->
 
 # 前言
-{% del 因为我自己搭了个[Cloudreve盘](https://pan.isese.top)想改下站点图标 %}
+~~因为我自己搭了个[Cloudreve盘](https://pan.isese.top)想改下站点图标~~
 
 # 教程
 ## 提取静态资源
