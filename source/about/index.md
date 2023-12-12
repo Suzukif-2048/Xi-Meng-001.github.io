@@ -5,7 +5,7 @@ wiki: Suzukif
 
 {% quot 喜欢 icon:love el:h2 %}
 
-蒲公英
+蒲公英{% emoji bilibili 喝水 %}
 猫咪{% emoji bilibili 耶 %}
 颜文字{% emoji bilibili 卖萌 %}
 
