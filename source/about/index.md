@@ -1,6 +1,7 @@
 ---
 layout: wiki
-wiki: Suzukif
+wiki: suzukif
+title: Suzukif
 ---
 
 {% quot 喜欢 icon:love el:h2 %}

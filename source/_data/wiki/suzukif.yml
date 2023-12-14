@@ -1,0 +1,18 @@
+name: Suzukif
+title: 铃木花華
+subtitle: '铃木花華'
+tags: 个人简介
+cover: true
+logo:
+  src: https://s2.loli.net/2023/10/29/s7X1yMIWC8FmEqn.png
+  small: 112px
+  large: 240px
+description: Suzukif
+sidebar: 
+  - search:
+    override: search
+    filter: /wiki/Suzukif/
+    placeholder: 在 Suzukif 中搜索...
+  - toc
+  - timeline_stellar_releases
+  - related
