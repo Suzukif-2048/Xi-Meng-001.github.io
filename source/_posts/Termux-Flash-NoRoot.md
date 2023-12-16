@@ -2,7 +2,7 @@
 title: 「📱」无Root使用Termux实现手机给手机刷机
 date: 2023-12-12 20:41:00
 tags: [Termux, 教程, 刷机]
-cover: https://file.suzukif.xyz/d/%E5%9B%BE%E7%89%87/Miku/YxUmaoqI_%E3%80%8Cnever%20ender%E3%80%8D_70858371.jpg
+cover: /images/tothefuture.png
 references:
   - title: 'TERMUX手机给手机刷机教程基于termux-usb的免root fastboot手机刷手机记录贴'
     url: https://www.coolapk.com/feed/38576397?shareKey=NDA3YmUzZTRiNGIwNjU3ODU3MDQ~&shareUid=22523276&shareFrom=com.coolapk.market_13.3.1
