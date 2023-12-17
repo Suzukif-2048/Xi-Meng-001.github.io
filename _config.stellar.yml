@@ -13,7 +13,7 @@ comments:
   # giscus
   # https://giscus.app/zh-CN
   giscus:
-    data-repo: Suzukif/blog-comments # [在此输入仓库]
+    data-repo: Suzukif-2048/blog-comments # [在此输入仓库]
     data-repo-id: R_kgDOKMuhPw # [在此输入仓库 ID]
     data-category: General # [在此输入分类名]
     data-category-id: DIC_kwDOKMuhP84CY78Y
