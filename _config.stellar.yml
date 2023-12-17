@@ -13,7 +13,7 @@ comments:
   # giscus
   # https://giscus.app/zh-CN
   giscus:
-    data-repo: Xi-Meng-001/blog-comments # [在此输入仓库]
+    data-repo: Suzukif/blog-comments # [在此输入仓库]
     data-repo-id: R_kgDOKMuhPw # [在此输入仓库 ID]
     data-category: General # [在此输入分类名]
     data-category-id: DIC_kwDOKMuhP84CY78Y
@@ -35,7 +35,7 @@ article:
 
 tag_plugins:
   emoji:
-    bilibili: https://gcore.jsdelivr.net/gh/Xi-Meng-001/BlogFile/image/${name}.png
+    bilibili: https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile/image/${name}.png
   quot:
     default:
       prefix: https://bu.dusays.com/2022/10/24/63567d3e092ff.png
@@ -52,15 +52,15 @@ footer:
   social:
     github:
       icon: '<img src="https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.4/social/08a41b181ce68.svg"/>'
-      url: https://github.com/Xi-Meng-001
+      url: https://github.com/Suzukif-2048
     bilibili:
-      icon: '<img src="https://gcore.jsdelivr.net/gh/Xi-Meng-001/BlogFile@master/svg/bilibili.svg">'
+      icon: '<img src="https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/svg/bilibili.svg">'
       url: https://b23.tv/PthDTzg
     telegram:
-      icon: 'img src="https://gcore.jsdelivr.net/gh/Xi-Meng-001/BlogFile@master/svg/telegram.svg">'
+      icon: 'img src="https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/svg/telegram.svg">'
       url: https://t.me/HatsuneMiku0124
     qq:
-      icon: '<img src="https://gcore.jsdelivr.net/gh/Xi-Meng-001/BlogFile@master/svg/QQ.svg">'
+      icon: '<img src="https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/svg/QQ.svg">'
       url: https://qm.qq.com/q/hDdPUKaNiM
   sitemap:
      '博客':
