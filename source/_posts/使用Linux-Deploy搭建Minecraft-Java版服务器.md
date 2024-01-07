@@ -21,7 +21,7 @@ cover: https://s1.ax1x.com/2023/08/19/pP3b62D.png
 ## 安装chroot容器
 安装完Linux Deploy后
 点击右下角的图标，进入如下界面
-{% image https://s1.ax1x.com/2023/08/19/pP3qTT1.jpg %}
+![](https://s1.ax1x.com/2023/08/19/pP3qTT1.jpg)
 第一次安装记得改源地址
 ``` HTML
 Debian阿里云源:http://mirrors.aliyun.com/debian/

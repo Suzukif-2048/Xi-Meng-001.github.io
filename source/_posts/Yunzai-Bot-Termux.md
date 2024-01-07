@@ -20,11 +20,11 @@ cover: https://s2.loli.net/2023/10/29/NIs4eylD1Ob8PCm.jpg
 {% copy curl -LO https://gitee.com/mo2/linux/raw/2/2.awk; awk -f 2.awk %}
 接下来一直输入y
 之后会看到这样的界面
-{% image https://z1.ax1x.com/2023/09/16/pPfUIYj.jpg %}
+![](https://z1.ax1x.com/2023/09/16/pPfUIYj.jpg)
 点击Proot容器
-{% image https://z1.ax1x.com/2023/09/16/pPfUj7F.jpg %}
+![](https://z1.ax1x.com/2023/09/16/pPfUj7F.jpg)
 选择Ubuntu
-{% image https://z1.ax1x.com/2023/09/16/pPfUxk4.jpg %}
+![](https://z1.ax1x.com/2023/09/16/pPfUxk4.jpg)
 接着选择喜欢的版本
 点击启动容器
 等待安装

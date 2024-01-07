@@ -26,7 +26,7 @@ references:
 输入`termux-setup-storage`然后回车
 输入{% kbd y %}键获取存储权限
 如下图所示则说明获取成功
-{% image https://s2.loli.net/2023/12/12/HTXIwsxbezBWDO2.jpg %}
+![](https://s2.loli.net/2023/12/12/HTXIwsxbezBWDO2.jpg)
 ### 安装软件包
 首先输入命令`pkg update`更新包列表
 再输入`pkg upgrade`更新所有包
@@ -38,7 +38,7 @@ references:
 给两台手机都插上usb otg线
 输入`termux-usb -l`
 如果界面如下图所示
-{% image https://s2.loli.net/2023/12/12/vC81AdNfZSwtyUl.jpg %}
+![]https://s2.loli.net/2023/12/12/vC81AdNfZSwtyUl.jpg)
 则已检测到设备
 
 复制所给路径{%psw (路径以实际为准) %}

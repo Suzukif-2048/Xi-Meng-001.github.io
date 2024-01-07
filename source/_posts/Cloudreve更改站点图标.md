@@ -24,7 +24,7 @@ Cloudreve更改站点图标的教程ヾ(❀●◡●)ﾉ
 ## 替换文件
 进入`statics`目录
 文件如下:
-{% image https://s2.loli.net/2023/10/29/gYxLPcMIvJVFelW.jpg %}
+![](https://s2.loli.net/2023/10/29/gYxLPcMIvJVFelW.jpg)
 接着进入`\static\img`目录
 替换下列文件
 `favicon.ico`
