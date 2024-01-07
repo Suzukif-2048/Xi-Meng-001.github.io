@@ -4,8 +4,7 @@ date: 2023-08-28 01:35:23
 tags: [教程, Cloudreve]
 cover: https://s2.loli.net/2023/10/29/59jQPqCRV6pSDdW.png
 references:
-  - title: '修改站点图标 教程'
-    url: https://forum.cloudreve.org/d/1765
+  - '[修改站点图标 教程](https://forum.cloudreve.org/d/1765)'
 ---
 
 Cloudreve更改站点图标的教程ヾ(❀●◡●)ﾉ

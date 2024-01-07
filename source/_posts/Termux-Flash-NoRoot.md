@@ -4,8 +4,7 @@ date: 2023-12-12 20:41:00
 tags: [Termux, 教程, 刷机]
 cover: /images/tothefuture.png
 references:
-  - title: 'TERMUX手机给手机刷机教程基于termux-usb的免root fastboot手机刷手机记录贴'
-    url: https://www.coolapk.com/feed/38576397?shareKey=NDA3YmUzZTRiNGIwNjU3ODU3MDQ~&shareUid=22523276&shareFrom=com.coolapk.market_13.3.1
+  - '[TERMUX手机给手机刷机教程基于termux-usb的免root fastboot手机刷手机记录贴](https://www.coolapk.com/feed/38576397?shareKey=NDA3YmUzZTRiNGIwNjU3ODU3MDQ~&shareUid=22523276&shareFrom=com.coolapk.market_13.3.1)'
 ---
 
 使用Termux实现手机给手机刷机

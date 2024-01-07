@@ -5,8 +5,7 @@ tags: [教程, Hexo, Github Pages]
 cover: https://s2.loli.net/2023/10/29/1QUtTExFrWnZswe.png
 banner: https://s2.loli.net/2023/10/29/1QUtTExFrWnZswe.png
 references:
-  - title: 'Linux下使用Hexo在GitHub Pages搭建博客'
-    url: https://blog.xzh.gs/2022/04/07/hexo-github_pages/
+  - '[Linux下使用Hexo在GitHub Pages搭建博客](https://blog.xzh.gs/2022/04/07/hexo-github_pages/)'
 ---
 
 搭建博客
