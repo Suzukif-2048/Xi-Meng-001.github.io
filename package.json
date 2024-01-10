@@ -9,11 +9,11 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "6.3.0"
+    "version": "7.0.0"
   },
   "dependencies": {
     "bulma": "^0.9.4",
-    "hexo": "^6.3.0",
+    "hexo": "^7.0.0",
     "hexo-bilibili-bangumi": "^1.8.9",
     "hexo-bilibili-card": "^0.6.3",
     "hexo-deployer-git": "^4.0.0",
@@ -35,7 +35,7 @@
     "hexo-tag-dplayer": "^0.3.3",
     "hexo-tag-owl": "^1.2.2",
     "hexo-theme-landscape": "^1.0.0",
-    "hexo-theme-stellar": "^1.22.1",
+    "hexo-theme-stellar": "^1.23.0",
     "install": "^0.13.0",
     "live2d-widget-model-miku": "^1.0.5",
     "npm": "^9.8.1"
