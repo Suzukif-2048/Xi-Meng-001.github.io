@@ -2,11 +2,22 @@ logo:
   avatar: '[config.avatar](/about/)' # you can set avatar link in _config.yml or '[https://xxx.png](/about/)'
   title: '[config.title](/)' # you can set html tag like: '[<img no-lazy height="32px" src="xxx"/>](/)'
   subtitle: '地球里的不知名存在_(:3」∠)_'
-menu:
-  post: '[btn.blog](/)'
-  wiki: '[btn.wiki](/wiki/)'
-  friends: '[友链](/links/)'
-  bangumis: '[追番](/bangumis/)'
+menubar:
+  columns: 4
+  items:
+     - id: post
+       title: 博客
+       url: /
+     - id: wiki
+       title: 项目
+       url: /wiki/
+     - id: friends
+       title: 友链
+       url: /links/
+     - id: bangumis
+       title: 追番
+       url: /bangumis/
+     
     
 site_tree:
   # 主页配置
@@ -33,6 +44,7 @@ comments:
     crossorigin: anonymous
 
 article:
+  share: [wechat, weibo, email, link]
   # npm i hexo-related-popular-posts
   related_posts:
     enable: true
