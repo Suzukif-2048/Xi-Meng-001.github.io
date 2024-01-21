@@ -50,6 +50,10 @@ article:
     enable: true
     title: 您可能感兴趣的文章
 
+style:
+  sidebar:
+    blur: true
+
 tag_plugins:
   emoji:
     bilibili: https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile/image/${name}.png
