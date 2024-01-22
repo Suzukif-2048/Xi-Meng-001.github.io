@@ -12,7 +12,7 @@ title: Suzukif
 
 {% quot Minecraft皮肤 icon:mcskins el:h2 %}
 
-{% mcskin name MikuMkiu true true 200 300 %}
+{% mcskin name ASzuFu true true 200 300 %}
 
 
 {% quot 设定缺失中... icon:gear %}
