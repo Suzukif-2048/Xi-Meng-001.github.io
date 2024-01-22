@@ -77,9 +77,6 @@ footer:
     bilibili:
       icon: '<img src="https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/svg/bilibili.svg">'
       url: https://b23.tv/PthDTzg
-    telegram:
-      icon: 'img src="https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/svg/telegram.svg">'
-      url: https://t.me/HatsuneMiku0124
     qq:
       icon: '<img src="https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/svg/QQ.svg">'
       url: https://qm.qq.com/q/hDdPUKaNiM
