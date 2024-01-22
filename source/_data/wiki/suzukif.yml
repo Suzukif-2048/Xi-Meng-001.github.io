@@ -10,6 +10,6 @@ sidebar:
     override: search
     filter: /wiki/Suzukif/
     placeholder: 在 Suzukif 中搜索...
-  - toc
   - timeline_stellar_releases
+  - toc
   - related
