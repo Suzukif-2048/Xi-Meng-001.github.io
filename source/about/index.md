@@ -2,6 +2,7 @@
 layout: wiki
 wiki: suzukif
 title: Suzukif
+breadcrumb: false
 ---
 
 {% quot 喜欢 icon:love el:h2 %}
