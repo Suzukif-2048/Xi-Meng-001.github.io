@@ -37,7 +37,7 @@ references:
 给两台手机都插上usb otg线
 输入`termux-usb -l`
 如果界面如下图所示
-![]https://s2.loli.net/2023/12/12/vC81AdNfZSwtyUl.jpg)
+![](https://s2.loli.net/2023/12/12/vC81AdNfZSwtyUl.jpg)
 则已检测到设备
 
 复制所给路径{%psw (路径以实际为准) %}
