@@ -22,7 +22,7 @@ menubar:
 site_tree:
   # 主页配置
   home:
-    sidebar: search, welcome, toc, timeline
+    sidebar: search, welcome, toc
 
 comments:
   service: giscus
@@ -69,6 +69,8 @@ tag_plugins:
       prefix: https://s2.loli.net/2023/11/13/kdLo13HPeWiDJhv.png
     love:
       prefix: https://s2.loli.net/2023/11/18/oKxaEMQ2icBAGzw.png
+    timeline:
+      prefix: https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@main/svg/%E5%8A%A8%E6%80%81.svg
 footer:
   social:
     github:
