@@ -10,13 +10,6 @@ ghuser:
   avatar: true # show avatar or not
   menu: true # show menu or not
 
-timeline:
-  layout: timeline
-  title: 近期动态
-  api: https://api.github.com/repos/Suzukif-2048/Xi-Meng-001.github.io/issues
-  user: Suzukif-2048
-  hide: footer
-
 statistics:
   layout: markdown
   title: 访客统计

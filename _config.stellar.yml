@@ -8,15 +8,15 @@ menubar:
      - id: post
        title: 博客
        url: /
-     - id: wiki
-       title: 项目
-       url: /wiki/
      - id: friends
        title: 友链
        url: /links/
      - id: bangumis
        title: 追番
        url: /bangumis/
+     - id: more
+       title: 更多
+       url: /more/
      
     
 site_tree:

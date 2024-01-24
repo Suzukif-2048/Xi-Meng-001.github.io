@@ -1,6 +1,12 @@
 ---
-date: 2023-08-18 16:56:37
+menu_id: friends
+back: true
+breadcrumb: false
 ---
+
+{% banner Suzukif 地球里的不知名存在_(:3」∠)_ avatar:/images/鈴木花華.jpg bg:/images/冬みくp2.jpg %}
+{% navbar active:/links/ [关于](/about/) [友链](/links/) %}
+{% endbanner %}
 
 ## 友链列表
 
