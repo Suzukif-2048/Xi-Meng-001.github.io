@@ -109,9 +109,9 @@ deploy:
   branch: gh_pages
   
 inject:
-  head:
-    - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
-  script:
+head: 
+  - <link rel="preconnect" href="https://s1.hdslb.com/" /> - <link rel="stylesheet" href="//s1.hdslb.com/bfs/static/jinkela/long/font/regular.css" media="all" onload="this.media='all'" /> - <link rel="stylesheet" href="//s1.hdslb.com/bfs/static/jinkela/long/font/medium.css" media="all" onload="this.media='all'" />
+
 
 hexo-tag-dplayer:
   cdn:

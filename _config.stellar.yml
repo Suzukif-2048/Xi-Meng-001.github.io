@@ -53,6 +53,9 @@ article:
 style:
   sidebar:
     blur: true
+  font-family:
+    logo: 'HarmonyOS_Medium'
+    body: 'HarmonyOS_Medium'
 
 tag_plugins:
   emoji:
