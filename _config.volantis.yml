@@ -1,0 +1,37 @@
+navbar:
+  visiable: auto # always, auto
+  logo: # choose [img] or [icon + title]
+    img: volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+    icon:
+    title:
+  menu:
+     - name: 博客
+       url: /
+     - name: 友链
+       url: /links/
+     - name: 追番
+       url: /bangumis/
+     - name: 更多
+       url: /more/
+cover:
+  height_scheme: full # full, half
+  layout_scheme: dock # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
+  display:
+    home: true
+    archive: true
+    others: false # can be written in front-matter 'cover: true'
+  background: https://gcore.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/bing/bing.jpg
+  # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
+  logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
+  title: 'Volantis'
+  subtitle: ''
+  search: A Wonderful Theme for Hexo # search bar placeholder
+  features:
+    - name: 博客
+      url: /
+    - name: 友链
+      url: /links/
+    - name: 追番
+      url: /bangumis/
+    - name: 更多
+      url: /more/
