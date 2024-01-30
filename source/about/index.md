@@ -3,7 +3,7 @@ menu_id: about
 breadcrumb: false
 back: true
 ---
-{% banner Suzukif 地球里的不知名存在_(:3」∠)_ avatar:/images/鈴木花華.jpg bg:/images/冬みくp1.jpg %}
+{% banner Suzukif 地球里的不知名存在_(:3」∠)_ avatar:https://q1.qlogo.cn/g?b=qq&nk=1410764887&s=640 bg:/images/冬みくp1.jpg %}
 {% navbar active:/about/ [关于](/about/) [友链](/links/) %}
 {% endbanner %}
 
