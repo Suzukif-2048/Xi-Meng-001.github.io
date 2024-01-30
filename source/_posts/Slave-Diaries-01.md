@@ -11,16 +11,16 @@ tags: [黑奴, 日记]
 
 {% quot 2024年1月30日下午2:56 icon:diary el:h2 %}
 ### 被农场主以5元巨款买入
-![](/images/slave2.jpg)
+![](https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/image2/slave2.jpg)
 
 {% quot 2024年1月30日晚上9:47 icon:diary el:h2 %}
 ### 被农场主强迫进行工作
-![](/images/slave4.jpg)
+![](https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/image2/slave4.jpg)
 
 {% quot 2024年1月31日凌晨1:30 icon:diary el:h2 %}
 ### 被农场主强迫凌晨无休止工作
-![](/images/slave1.jpg)
+![](https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/image2/slave1.jpg)
 
 {% quot 2024年1月31日凌晨1:55 icon:diary el:h2 %}
 ### 鉴于农场主认错态度良好，现已原谅
-![](/images/slave3.jpg)
+![](https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/image2/slave3.jpg)
