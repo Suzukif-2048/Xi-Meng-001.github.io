@@ -59,14 +59,13 @@ comments:
     # Custom emoji
     emoji: 
       - https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs
-      - https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile/image
-    #   - https://unpkg.com/@waline/emojis@1.1.0/weibo
-    #   - https://unpkg.com/@waline/emojis@1.1.0/alus
-    #   - https://unpkg.com/@waline/emojis@1.1.0/bilibili
-    #   - https://unpkg.com/@waline/emojis@1.1.0/qq
-    #   - https://unpkg.com/@waline/emojis@1.1.0/tieba
-    #   - https://unpkg.com/@waline/emojis@1.1.0/tw-emoji
-    #   - https://unpkg.com/@waline/emojis@1.1.0/bmoji
+      - https://unpkg.com/@waline/emojis@1.1.0/weibo
+      - https://unpkg.com/@waline/emojis@1.1.0/alus
+      - https://unpkg.com/@waline/emojis@1.1.0/bilibili
+      - https://unpkg.com/@waline/emojis@1.1.0/qq
+      - https://unpkg.com/@waline/emojis@1.1.0/tieba
+      - https://unpkg.com/@waline/emojis@1.1.0/tw-emoji
+      - https://unpkg.com/@waline/emojis@1.1.0/bmoji
 
 
 article:
