@@ -99,6 +99,8 @@ tag_plugins:
       prefix: https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@main/svg/%E5%8A%A8%E6%80%81.svg
     diary:
       prefix: /images/diary.svg
+    bookandpen:
+      prefix: /images/bookandpen.svg
 footer:
   social:
     github:
