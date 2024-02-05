@@ -1,9 +1,18 @@
 welcome:
   layout: markdown
-  title: 欢迎欢迎
+  title: 欢迎!
+  linklist: # 与 linklist 组件写法相同
+    columns: 1 
+    items:
+      - icon: https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/svg/%E8%BD%AC%E5%8F%91.svg
+        title: 加入Q群!
+        url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=n1p1Lp_7QHW3uIKlKwmnCS8ZMr8cYlj_&authKey=hDFbSGreGwaEWFkQaZ2aieKVIqdrZSKNcjaDz1VH9Ym%2BVWLuYHgK5RViyeI4tYCX&noverify=0&group_code=915505895
   content: |
-    <a style="text-decoration:none;" href="https://travel.moe/go.html" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！" target="_blank"><img src="https://travel.moe/images/icon/icon64.png" style="width:24px;height:24px">异次元之旅</a>
-
+    ##### 👏 你好!
+    这是咱的博客，用来分享遇到的趣事之类的(*￣3￣)
+    <br>
+    如果不介意的话，可以加入咱的聊天群，聊天吹水之类的ヾﾉ≧^≦)っ
+    群号: 915505895
 ghuser:
   layout: ghuser
   username: Xi-Meng-001 # your github login username
