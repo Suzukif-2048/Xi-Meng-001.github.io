@@ -27,5 +27,7 @@ back: true
 
 {% quot 近期动态 icon:timeline el:h2 %}
 
-{% timeline user:Suzukif-2048 api:https://api.github.com/repos/Suzukif-2048/Xi-Meng-001.github.io/issues %}{% endtimeline %}
+{% timeline api:https://note.ilogic.studio/api/v1/memo?creatorId=2&limit=10 type:memos avatar:https://q1.qlogo.cn/g?b=qq&nk=1410764887&s=640 %}
+{% endtimeline %}
+
 
