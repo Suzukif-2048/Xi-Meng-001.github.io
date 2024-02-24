@@ -150,7 +150,7 @@ bangumi: # 追番设置
 feed:
   type: atom
   path: atom.xml
-  limit: 0
+  limit: 5
   hub:
   content: true
   content_limit: 140
