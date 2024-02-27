@@ -5,6 +5,9 @@ tags: [Xenforo, Aplayer, 论坛, 教程]
 cover: https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile/image2/XenForo.png
 ---
 
+添加Aplayer播放器ฅ●ω●ฅ
+<!-- more -->
+
 ## 效果图
 
 {% image https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile/image2/Aplayer-Xenforo1.jpg %}
