@@ -51,6 +51,7 @@ comments:
     commentCount: true
     # Pageviews count, Note: You should not enable both `waline.pageview` and `leancloud_visitors`.
     pageview: false
+    reaction: true
 
     # Custom locales
     locale:
