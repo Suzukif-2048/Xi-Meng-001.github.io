@@ -6,15 +6,19 @@ menubar:
   columns: 4
   items:
      - id: post
+       icon: https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/Sidebar_icon/%E6%8C%87%E5%AF%BC.svg
        title: 博客
        url: /
      - id: friends
+       icon: https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/Sidebar_icon/%E5%8F%8B%E9%93%BE.svg
        title: 友链
        url: /links/
      - id: bangumis
+       icon: https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/Sidebar_icon/%E6%88%91%E7%9A%84%E8%BF%BD%E7%95%AA.svg
        title: 追番
        url: /bangumis/
      - id: more
+       icon: https://gcore.jsdelivr.net/gh/Suzukif-2048/BlogFile@master/Sidebar_icon/%E5%85%A8%E9%83%A8.svg
        title: 更多
        url: /more/
      
