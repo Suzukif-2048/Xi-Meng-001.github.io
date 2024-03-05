@@ -47,8 +47,8 @@ comments:
     data-loading: lazy
     crossorigin: anonymous
   waline:
-    js: https://unpkg.com/@waline/client@v2/dist/waline.js
-    css: https://unpkg.com/@waline/client@v2/dist/waline.css
+    js: https://unpkg.com/@waline/client@v3/dist/waline.js
+    css: https://unpkg.com/@waline/client@v3/dist/waline.css
     # Waline server address url, you should set this to your own link
     serverURL: https://blog-comments.suzukif.xyz # waline 地址
     # If false, comment count will only be displayed in post page, not in home page
