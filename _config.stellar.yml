@@ -27,7 +27,6 @@ site_tree:
   # 主页配置
   home:
     leftbar: search, welcome, recent
-    rightbar: toc
 
 comments:
   service: waline
