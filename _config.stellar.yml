@@ -132,7 +132,7 @@ footer:
        - '[🐧 QQ](https://qm.qq.com/q/Jcadj7ExQm)'
        - '[📺 B站](https://b23.tv/TFEJ7Z7)'
   content: | # 支持 Markdown 格式
-    本站由 [${author.name}](/) 使用 [${theme.name} ${theme.version}](${theme.tree}) 主题创建。
+    本站由 [{author.name}](/) 使用 [{theme.name} {theme.version}](${theme.tree}) 主题创建。
     本博客所有文章除特别声明外，均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议，转载请注明出处。
     [⛩ 萌ICP备20230142号](https://icp.gov.moe/?keyword=20230142)
     <a style="text-decoration:none;" href="https://travel.moe/go.html" title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！" target="_blank"><img src="https://travel.moe/images/icon/icon64.png" style="width:24px;height:24px">异次元之旅</a>
