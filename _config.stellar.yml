@@ -1,7 +1,7 @@
 logo:
   avatar: '[{config.avatar}](/about/)' # you can set avatar link in _config.yml or '[https://xxx.png](/about/)'
   title: '[{config.title}](/)' # you can set html tag like: '[<img no-lazy height="32px" src="xxx"/>](/)'
-  subtitle: '地球里的不知名存在_(:3」∠)_'
+  subtitle: '地球里的不知名存在_(:3」∠)_ | 啊...啊咧?Σ( ° △ °|||)'
 menubar:
   columns: 4
   items:
