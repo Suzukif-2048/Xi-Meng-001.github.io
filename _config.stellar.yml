@@ -1,6 +1,6 @@
 logo:
-  avatar: '[config.avatar](/about/)' # you can set avatar link in _config.yml or '[https://xxx.png](/about/)'
-  title: '[config.title](/)' # you can set html tag like: '[<img no-lazy height="32px" src="xxx"/>](/)'
+  avatar: '[{config.avatar}](/about/)' # you can set avatar link in _config.yml or '[https://xxx.png](/about/)'
+  title: '[{config.title}](/)' # you can set html tag like: '[<img no-lazy height="32px" src="xxx"/>](/)'
   subtitle: '地球里的不知名存在_(:3」∠)_'
 menubar:
   columns: 4
@@ -26,7 +26,8 @@ menubar:
 site_tree:
   # 主页配置
   home:
-    sidebar: search, welcome, toc
+    leftbar: search, welcome, recent
+    rightbar: toc
 
 comments:
   service: waline
