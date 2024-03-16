@@ -27,3 +27,12 @@ breadcrumb: false
 - 简介：可爱的鈴木花華ヾﾉ≧∀≦)o
 
 {% endfolding %}
+
+{% folding 若要添加本站为友链，填写一下信息即可!(˵¯͒〰¯͒˵) open:false color:cyan %}
+
+- 标题: 鈴木花華のBlog
+- URL地址：https://suzukif.xyz/
+- 网站图标：https://q1.qlogo.cn/g?b=qq&nk=1410764887&s=640
+- 简介：可爱的鈴木花華ヾﾉ≧∀≦)o
+
+{% endfolding %}
