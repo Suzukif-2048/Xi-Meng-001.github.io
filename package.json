@@ -16,6 +16,7 @@
     "hexo": "^7.0.0",
     "hexo-bilibili-bangumi": "^1.8.9",
     "hexo-bilibili-card": "^0.6.3",
+    "hexo-blog-encrypt": "^3.1.9",
     "hexo-deployer-git": "^4.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
